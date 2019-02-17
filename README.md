@@ -1,6 +1,6 @@
 # Pig-Dice
 ## Overview  
-##### Coded 2017 by Sabrina Button  
+##### Coded 2018 by Sabrina Button  
 "Pig" is a dice game where the user competes against the computer to reach 100 points.   
 ###### Rules https://www.dicegamedepot.com/dice-n-games-blog/pig-dice-game-rules/  
 
